@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "515494760215",
+    "firebase_url": "https://projectseatandeat.firebaseio.com",
+    "project_id": "projectseatandeat",
+    "storage_bucket": "projectseatandeat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:515494760215:android:3ce054ae4b2866b4",
+        "android_client_info": {
+          "package_name": "com.example.projectseatandeat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "515494760215-k794u7pm78ebj1ici7ssohp9cnd0rbd6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.projectseatandeat",
+            "certificate_hash": "f50c1edff1833c1d576059f6edc619af88b52765"
+          }
+        },
+        {
+          "client_id": "515494760215-4b4c00quqmh28f56rei074p5jtd6of67.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsgMzVYvd02Szg8rzyvQblQ5q0rJ09iAo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "515494760215-4b4c00quqmh28f56rei074p5jtd6of67.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

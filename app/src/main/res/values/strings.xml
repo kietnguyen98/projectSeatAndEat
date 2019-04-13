@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Project Seat and Eat</string>
+    <string name="txtScreen">Developed by ... Team. Belong to CSE Falcuty - Dai Hoc Bach Khoa TP.HCM. </string>
+    <string name="sign_up">Sign Up</string>
+    <string name="todo">TODO</string>
+    <string name="sign_in">Sign in</string>
+    <string name="sign_up_with_facebook">Sign Up With Facebook</string>
+    <string name="sign_in_with_facebook">sign in with facebook</string>
+    <string name="ng_nh_p">Đăng nhập</string>
+    <string name="ng_nh_p_b_ng_t_i_kho_n_facebook">Đăng nhập bằng tài khoản Facebook</string>
+    <string name="ng_k_t_i_kho_n">Đăng kí tài khoản</string>
+    <string name="quay_l_i">Quay lại</string>
+    <string name="ng_k">Đăng kí</string>
+    <string name="title_activity_home">Home</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+</resources>
